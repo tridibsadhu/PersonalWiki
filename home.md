@@ -3,4 +3,5 @@
 
 # Documentation related to my research
 
-$\begin{equation} \phi(a)=\frac{1}{\epsilon}\phi(q)\end{equation}$
+\begin{equation} \phi(a)=\frac{1}{\epsilon}\phi(q)
+\end{equation}
